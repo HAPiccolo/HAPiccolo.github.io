@@ -2,7 +2,7 @@
 
 Mi nombre es <b>Horacio</b>, soy de Argentina.  
 
-Actualmente me encuentro cursando la Tecnicatura Superior en Desarrollo de Software, ya voy terminando el 1er año y mas preparado para los desafios que vendran.
+Actualmente me encuentro cursando la Tecnicatura Superior en Desarrollo de Software, ya voy terminando el 2do. año y mas preparado para los desafios que vendran.
 
 Los lenguajes de programación que me gustan y estoy aprendiendo son:
 
